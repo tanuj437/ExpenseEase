@@ -13,7 +13,7 @@ The goal was to practice clean domain modeling (entities, services, repositories
 
 **Steps**
 ```bash
-git clone https://github.com/your-username/ExpenseEase.git
+git clone https://github.com/tanuj437/ExpenseEase.git
 cd ExpenseEase
 mvn spring-boot:run
 ```
